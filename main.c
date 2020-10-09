@@ -2,8 +2,8 @@
 
 int main()
 {
-    int a=2,d=8,c;
-    c=a+b;
-    printf(c);
+    int num1,num2,num3;
+    num3=a+b;
+    printf(num3);
 }
 
