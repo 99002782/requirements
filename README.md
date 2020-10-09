@@ -4,3 +4,4 @@
 ![cppcheck-action](https://github.com/99002783/scientificcalculator/workflows/cppcheck-action/badge.svg)
 ![build](https://github.com/99002782/requirements/workflows/build/badge.svg)
 ![makefile](https://github.com/99002782/requirements/workflows/makefile/badge.svg)
+![unit_test](https://github.com/99002782/requirements/workflows/unit_test/badge.svg)
